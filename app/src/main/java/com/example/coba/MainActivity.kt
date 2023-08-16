@@ -11,7 +11,5 @@ class MainActivity : AppCompatActivity() {
         //comment
 
 
-
-
     }
 }
